@@ -1,0 +1,15 @@
+{
+  "name": "myfirst",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Arvind Parkash",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0"
+  }
+}
